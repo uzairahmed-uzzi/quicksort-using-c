@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667841569 source:d:\programs\c programs\quicksort\quicksort.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1667842130 source:d:\programs\c programs\quicksort\quicksort2.cpp
+	<stdio.h>
+
